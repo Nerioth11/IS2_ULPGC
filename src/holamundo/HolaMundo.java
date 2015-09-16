@@ -16,6 +16,5 @@ public class HolaMundo {
         Person p1 = new Person("Joel", "Delgado", new Date(92, 11, 11));
         System.out.println(p1.getFullName());
         System.out.println(p1.getAge());
-        System.out.println(p1.getAge());
     }
 }
